@@ -15,7 +15,7 @@ function changeMode() {
     }
     else {
         console.log(false);
-         $("body").css("color", "red").css("background color", "#90")
+         $("body").css("color", "red").css("background color", "#240")
          $(".header").css("color", "green");
           $(this).text("🌕")
     }
